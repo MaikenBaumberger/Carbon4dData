@@ -1,0 +1,5 @@
+probe_id,plot_id,start_date,start_time,end_date,end_time,lat,lon,location,height,org_layer,excess_length,probe_length,landuse,time_res,available,Hoehe_DGM,Landn,Expo,Inkl,BArt,BTyp,ESC,geometry
+Waldstein_1,Waldstein,01.04.2021,00:00,05.01.2022,23:59,50.143130,11.865700,Waldstein,776.00,10,0,90,coniferous_forest,60,1,774.22,1400,289.85,3.12,50,4,1454,"c(704750.780262016, 5558476.90924594)"
+Waldstein_2,Waldstein,07.01.2022,00:00,29.03.2022,23:59,50.143130,11.865700,Waldstein,776.00,10,0,90,coniferous_forest,10,1,774.22,1400,289.85,3.12,50,4,1454,"c(704750.780262016, 5558476.90924594)"
+Waldstein_3,Waldstein,10.04.2022,00:00,03.11.2022,23:59,50.143130,11.865700,Waldstein,776.00,10,0,90,coniferous_forest,10,0,774.22,1400,289.85,3.12,50,4,1454,"c(704750.780262016, 5558476.90924594)"
+Voitsumra,PS022,06.01.2022,00:00,03.11.2022,23:59,50.089880,11.848750,Voitsumra,625.00,0,0,90,meadow,10,1,625.95,1600,141.03,1.25,30,3,1633,"c(703765.92976516, 5552511.1155786)"
